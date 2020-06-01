@@ -1,4 +1,4 @@
-#impotando as bibliotecas, numpy para armazenar a qtable, e pickle para salvar a qtable em formato pkl
+#impotando as bibliotecas, numpy para armazenar a qtable, e pickle para salvar a q-table em formato pkl
 import gym
 import numpy as np
 import time, pickle, os

@@ -3,6 +3,7 @@ import gym
 import numpy as np
 import time, pickle, os
 
+#inicializa o ambiente frozenlake
 env = gym.make('FrozenLake-v0')
 
 epsilon = 0.9
